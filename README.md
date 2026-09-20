@@ -2,9 +2,6 @@
 
 An end-to-end HR analytics project investigating why employees are leaving, using SQL, Python, Excel, and Power BI on the IBM HR Analytics Employee Attrition dataset.
 
-## The Ask
-
-From HR: *"Attrition felt higher than usual this year — can you tell me if that's actually true, and if so, where it's coming from?"*
 
 ## Key Findings
 
