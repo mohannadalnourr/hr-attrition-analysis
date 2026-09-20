@@ -13,8 +13,7 @@ An end-to-end HR analytics project investigating why employees are leaving, usin
 
 ## Dashboard
 
-![Dashboard Screenshot](powerbi/IBM HR Analytics Employee Attrition & Performance.png)
-
+![Dashboard Screenshot](powerbi/dashboard-screenshot.png)
 The interactive Power BI report includes:
 - KPI cards for overall attrition rate, Sales Rep attrition, and total employees lost
 - A department-level view with a filterable slicer
